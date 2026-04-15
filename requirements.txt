@@ -1,6 +1,15 @@
+# --- Web Framework ---
 streamlit
+
+# --- Core Image & Math ---
 numpy
-opencv-python-headless
 Pillow
+opencv-python-headless
+
+# --- Scientific & Medical ---
 scipy
+scikit-image
+pydicom
+
+# --- Visualization ---
 matplotlib
